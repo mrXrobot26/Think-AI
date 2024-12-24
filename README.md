@@ -8,7 +8,7 @@ Welcome to my **AI & ML Learning Journey** repository! This is where I document 
 - Master the basics of AI & ML.  
 - Build projects showcasing practical applications.  
 - Contribute to the open-source community.
-- 
+
 --- 
 
 ## 🚀 Projects & Contributions  
