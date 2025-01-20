@@ -38,6 +38,10 @@ Welcome to my **AI & ML Learning Journey** repository! This is where I document 
 12. **Hierarchical Clustering**  
     - Implemented a hierarchical approach to cluster analysis for a better understanding of data structures.  
 
+### Data Preprocessing  
+- **Data Cleaning & Feature Engineering**  
+  - Covered techniques such as handling missing values, feature scaling, encoding categorical variables, and outlier detection.  
+
 ### Generic Template  
 - **Regression & Data Preprocessing**  
   - Created a reusable and efficient generic template for regression workflows and data preprocessing, covering data cleaning, feature scaling, and encoding techniques.  
